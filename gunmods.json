@@ -1,0 +1,28 @@
+[
+  {
+    "id": "xm8_sight",
+    "copy-from": "acog_scope",
+    "type": "GUNMOD",
+    "name": { "str": "XM8 sight" },
+    "description": "A 4x32 TA01 Advanced Combat Optical Gunsight with a tritium illuminated crosshair.",
+    "weight": "0 g",
+    "volume": "0 ml",
+    "price": 0,
+    "material": [ "steel", "plastic", "glass" ],
+    "aim_speed": 2,
+    "flags": [ "ZOOM", "IRREMOVABLE" ]
+  },
+  {
+    "id": "xm8_scope",
+    "copy-from": "rifle_scope",
+    "type": "GUNMOD",
+    "name": { "str": "XM8 scope" },
+    "description": "A 4x32 TA01 Advanced Combat Optical Gunsight with a tritium illuminated crosshair.",
+    "weight": "0 g",
+    "volume": "0 ml",
+    "price": 0,
+    "material": [ "steel", "plastic", "glass" ],
+    "aim_speed": 2,
+    "flags": [ "ZOOM", "IRREMOVABLE" ]
+  }
+]
