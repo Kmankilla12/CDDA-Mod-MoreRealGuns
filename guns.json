@@ -19,6 +19,7 @@
     "dispersion": 150,
     "durability": 7,
     "min_cycle_recoil": 1200,
+    "barrel_length": "500 ml",
     "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 6 ] ]
     "valid_mod_locations": [ [ "brass catcher", 1 ], [ "sling", 1 ], [ "rail mount", 1 ], [ "sights mount", 1 ] ],
     "magazines": [ [ "223", [ "stanag30", "stanag50", "survivor223mag" ] ] ]
